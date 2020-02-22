@@ -1,8 +1,8 @@
 class PassOpen < Formula
   desc "A pass extension to open a site in the default browser"
   homepage "https://github.com/douglassd/pass-extension-open"
-  url "https://github.com/douglassd/pass-extension-open/archive/v1.0.0.tar.gz"
-  sha256 "5aff38c942a47736da6b8a45a37415c2c177e8d8a0d59e6a3938a85ebfe1d016"
+  url "https://github.com/douglassd/pass-extension-open/archive/v1.0.1.tar.gz"
+  sha256 "b3994b98863ef7f7fbbd8f0727ebcf9b0905fe7a0837ffa5c3bc5482f0ec199d"
   head "https://github.com/douglassd/pass-extension-open.git"
 
   depends_on "pass"
