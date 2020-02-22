@@ -1,4 +1,4 @@
-class PassUpdate < Formula
+class PassOpen < Formula
   desc "A pass extension to open a site in the default browser"
   homepage "https://github.com/douglassd/pass-extension-open"
   url "https://github.com/douglassd/pass-extension-open/archive/v1.0.0.tar.gz"
